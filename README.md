@@ -1,3 +1,6 @@
+#Runnig process:
+first download it,second goto command prompt,third navigate to folder address,later type python diabetes_main.py in it.
+
 🔥 Wow, that’s a **super advanced calculator app** — almost like a mini–MATLAB + Wolfram Alpha in one! Since your `calculator_main.py` supports multiple **modes** (Standard, Scientific, Algebra, Calculus, etc.), your README should highlight that clearly and give instructions for running in different modes.
 
 Here’s a **revamped README.md** tailored for your powerful calculator:
